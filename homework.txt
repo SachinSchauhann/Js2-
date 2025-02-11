@@ -1,0 +1,1 @@
+make a form where fill storage data then click on submit then store in new page  and when a button logout of clear at new page then press then clear data
